@@ -7,7 +7,7 @@
 ### SQL (Structured Query Language):
 
 ☆ Linguagem especializada para gerenciar e manipular bancos de dados relacionais.
-Fornece comandos para criação, consulta, atualização e exclusão de dados.
+☆ Fornece comandos para criação, consulta, atualização e exclusão de dados.
 
 ---
 ### Banco de Dados:

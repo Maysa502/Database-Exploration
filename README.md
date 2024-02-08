@@ -1,5 +1,12 @@
 # Formação em ciencia de dados: SQL 
 ---
+### Material utilizado ao longo da formação do entendimento: 
+
+Curso: [Formação em Ciencia de Dados - Comunidade DS](https://www.comunidadeds.com/formacao-profissional-ciencia-de-dados?gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lek6ybIYm2eBR3Dg5b1iDiUAiW0dFzG_0BbpxmcAHc3kdFtoggtr1BoCnQoQAvD_BwE).
+
+Livros: Sistemas de Banco de Dados navathe 6ª Edicao 
+
+
 ### 5/02/24 - Segunda-Feira
 
 ### Aulas 1 & 2 

@@ -4,13 +4,18 @@
 
 Curso: [Formação em Ciencia de Dados - Comunidade DS](https://www.comunidadeds.com/formacao-profissional-ciencia-de-dados?gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lek6ybIYm2eBR3Dg5b1iDiUAiW0dFzG_0BbpxmcAHc3kdFtoggtr1BoCnQoQAvD_BwE).
 
-Materiais pedagógicos utilizados na formação:  
+Parte teorica: [Materiais pedagógicos utilizados na formação e entendimento de dados](https://github.com/Maysa502/Database-Exploration/tree/main/Livros).
 
-### 5/02/24 - Segunda-Feira
+---
 
-### Aulas 1 & 2 
+<!-- 5/02/24 - Segunda-Feira -->
 
-### SQL (Structured Query Language):
+
+
+
+<!-- Aulas 1 & 2 -->
+
+## SQL (Structured Query Language):
 
 ☆ Linguagem especializada para gerenciar e manipular bancos de dados relacionais.
 ☆ Fornece comandos para criação, consulta, atualização e exclusão de dados.
@@ -21,7 +26,7 @@ Materiais pedagógicos utilizados na formação:
 ☆ Constrói tabelas, armazena informações e consulta dados.
 Armazenados em servidores.
 
----
+
 ### Banco de Dados Relacional:
 
 ☆ Utiliza o modelo relacional com tabelas (linhas e colunas) para organizar dados.

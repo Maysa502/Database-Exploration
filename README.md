@@ -4,8 +4,7 @@
 
 Curso: [Formação em Ciencia de Dados - Comunidade DS](https://www.comunidadeds.com/formacao-profissional-ciencia-de-dados?gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lek6ybIYm2eBR3Dg5b1iDiUAiW0dFzG_0BbpxmcAHc3kdFtoggtr1BoCnQoQAvD_BwE).
 
-Livros: Sistemas de Banco de Dados navathe 6ª Edicao 
-
+Materiais pedagógicos utilizados na formação:  
 
 ### 5/02/24 - Segunda-Feira
 

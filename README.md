@@ -1,63 +1,208 @@
 # Formação em ciencia de dados: SQL 
 ---
-### Material utilizado ao longo da formação do entendimento: 
+# Python Learning Notes
 
-Curso: [Formação em Ciencia de Dados - Comunidade DS](https://www.comunidadeds.com/formacao-profissional-ciencia-de-dados?gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lek6ybIYm2eBR3Dg5b1iDiUAiW0dFzG_0BbpxmcAHc3kdFtoggtr1BoCnQoQAvD_BwE).
+Bem-vindo ao meu repositório de aprendizado em Banco de Dados! Este projeto contém minhas anotações, atividades e exemplos, criados durante o meu estudo de DataBase
 
-Parte teorica: [Materiais pedagógicos utilizados na formação e entendimento de dados](https://github.com/Maysa502/Database-Exploration/tree/main/Livros).
+## Propósito do Projeto
+
+O objetivo deste projeto é fornecer recursos úteis para alunos iniciantes de banco de dados, facilitando a absorção do conhecimento. As anotações são baseadas em livros que estarão disponiveis no repositório [livros](https://github.com/Maysa502/Database-Exploration/tree/main/Livros).
+
+E também serão ministradas a partir do curso: [Formação em Ciencia de Dados - Comunidade DS](https://www.comunidadeds.com/formacao-profissional-ciencia-de-dados?gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lek6ybIYm2eBR3Dg5b1iDiUAiW0dFzG_0BbpxmcAHc3kdFtoggtr1BoCnQoQAvD_BwE).
+
+
+
+---
+
+
+## Sobre Banco de Dados
+
+Um banco de dados é um sistema organizado para armazenar, gerenciar e recuperar informações. Ele consiste em uma estrutura que permite o armazenamento eficiente, a manipulação e a recuperação de dados de forma rápida e precisa. Os bancos de dados são amplamente utilizados em diversos setores para gerenciar informações de forma estruturada e acessível.
 
 ---
 
-<!-- 5/02/24 - Segunda-Feira -->
+### Curiosidades sobre Banco de Dados:
 
+- Início da Era dos Bancos de Dados: O conceito de bancos de dados começou a surgir na década de 1960, com o desenvolvimento de sistemas de gerenciamento de informações. Charles Bachman, em 1963, é frequentemente creditado com o desenvolvimento do primeiro Sistema de Gerenciamento de Banco de Dados (SGBD), conhecido como IDS (Integrated Data Store).
 
+- Modelo Relacional: A década de 1970 foi marcada pela introdução do modelo relacional por Edgar F. Codd. Seu artigo "A Relational Model of Data for Large Shared Data Banks" em 1970 estabeleceu os fundamentos teóricos que levaram ao desenvolvimento de SGBDs relacionais.
 
+- Primeiro SGBD Relacional Comercial: O primeiro Sistema de Gerenciamento de Banco de Dados Relacional comercial foi o Oracle, lançado em 1979 pela Oracle Corporation.
 
-<!-- Aulas 1 & 2 -->
+- SQL (Structured Query Language): A linguagem SQL, essencial para a interação com bancos de dados relacionais, foi desenvolvida nos laboratórios da IBM nos anos 1970.
 
-## SQL (Structured Query Language):
+- Expansão e Diversificação: Nas décadas seguintes, a tecnologia de bancos de dados evoluiu consideravelmente. Diversos sistemas foram desenvolvidos, e o mercado testemunhou a ascensão de vários SGBDs, incluindo MySQL, Microsoft SQL Server, PostgreSQL, entre outros.
 
-☆ Linguagem especializada para gerenciar e manipular bancos de dados relacionais.
-☆ Fornece comandos para criação, consulta, atualização e exclusão de dados.
+- NoSQL: Nos anos mais recentes, a ascensão do movimento NoSQL trouxe alternativas aos modelos tradicionais de bancos de dados relacionais, permitindo o armazenamento e recuperação de dados de maneiras diferentes e mais flexíveis, atendendo a necessidades específicas de determinadas aplicações.
+
 
 ---
-### Banco de Dados:
+### Empresas e Tecnologias de Banco de Dados 
 
-☆ Constrói tabelas, armazena informações e consulta dados.
-Armazenados em servidores.
+#### Tecnologia da Informação
+1. **Oracle**
+2. **Microsoft (para SQL Server)**
+3. **IBM (para DB2)**
+4. **MongoDB**
+
+#### Redes Sociais e Mídias Digitais
+1. **Facebook**
+   - Utiliza: MySQL, Cassandra
+2. **Twitter**
+   - Utiliza: MySQL, Redis, Manhattan
+
+#### Comércio Eletrônico
+1. **Amazon**
+   - Utiliza: Diferentes bancos de dados, incluindo DynamoDB
+2. **eBay**
+   - Utiliza: MySQL, Hadoop
+
+#### Serviços Financeiros
+1. **JPMorgan Chase**
+   - Utiliza: Oracle, DB2, entre outros
+2. **Visa**
+   - Utiliza: Oracle
+3. **PayPal**
+   - Utiliza: MySQL, MongoDB
+
+#### Educação
+1. **Blackboard**
+   - Fornece plataformas de aprendizado online
+2. **Ellucian**
+   - Fornece soluções para instituições de ensino superior
+---
+
+### Explorando o Universo DataBase
+
+O repositório está organizado por pastas, cada uma correspondendo a um tópico específico ou matéria. Explore as pastas para encontrar informações detalhadas e exemplos relacionados a cada área.
 
 
-### Banco de Dados Relacional:
 
-☆ Utiliza o modelo relacional com tabelas (linhas e colunas) para organizar dados.
-Conceitos-chave: Tabela, Chave Primária, Chave Estrangeira, Normalização.
-Exemplos de sistemas: MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server.
+### Exemplos Geeks
+
+Para tornar os estudos mais envolventes, muitos dos exemplos e atividades estão relacionados ao universo geek. Espero que isso torne o aprendizado mais divertido e prático!
 
 ---
-### SQL (Structured Query Language):
 
-Linguagem para consultar, modificar e gerenciar bancos de dados relacionais.
+### Começando
 
-### DBA (Administrador de Banco de Dados):
+1. Clone este repositório: `git clone https://github.com/seu-usuario/python-learning-notes.git`
+2. Explore as pastas e inicie sua jornada de aprendizado em DataBase
 
-☆ Responsável por instalar, configurar, garantir segurança, monitorar desempenho, realizar backup/recuperação, otimizar desempenho e aplicar patches.
 
-### Esquema e Database:
+**Sinta-se à vontade para explorar, clonar o repositório e contribuir se quiser compartilhar suas próprias anotações ou melhorar as existentes. Boa jornada de aprendizado em Banco de Dados!**
 
-☆ Esquema é um conjunto de tabelas dentro de um banco de dados.
-Database é um conjunto de schemas, que por sua vez é um conjunto de tabelas.
 
-!['Esquema](aula2.PNG)
 
----
-### Divisão Lógica vs. Divisão Física:
 
-☆ Lógica (Esquema): Organização conceitual dos dados.
-☆ Física (Banco de Dados): Armazenamento real dos dados em hardware.
 
-### Analogia com Partições em um Disco Rígido:
 
-☆ Múltiplos bancos de dados em um HD são como partições, isolando dados com estruturas lógicas e físicas próprias.
 
----
-Em resumo, o SQL é usado para gerenciar dados em bancos de dados relacionais, que organizam informações em tabelas. Um DBA cuida da administração do banco de dados, e a analogia com partições em um disco ajuda a entender a divisão lógica e física dos dados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   *"Da mesma forma que o amor transcende o tempo em Interestelar, um banco de dados eficiente transcende as barreiras do armazenamento, conectando informações cruciais para impulsionar a jornada do conhecimento."*
+
+
+
+

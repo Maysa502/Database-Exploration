@@ -1,8 +1,7 @@
 # Formação em ciencia de dados: SQL 
 ---
-### 5/02/24 - Segunda-Feira
-
-### Aulas 1 & 2 
+<!--5/02/24 - Segunda-Feira
+Aulas 1 & 2-->
 
 ### SQL (Structured Query Language):
 
@@ -52,5 +51,3 @@ Database é um conjunto de schemas, que por sua vez é um conjunto de tabelas.
 Em resumo, o SQL é usado para gerenciar dados em bancos de dados relacionais, que organizam informações em tabelas. Um DBA cuida da administração do banco de dados, e a analogia com partições em um disco ajuda a entender a divisão lógica e física dos dados.
 
 
-### 6/02/2024 - Terça-feira
-### 

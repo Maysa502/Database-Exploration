@@ -84,7 +84,7 @@ Para tornar os estudos mais envolventes, muitos dos exemplos e atividades estão
 
 ### Começando
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/python-learning-notes.git`
+1. Clone este repositório: `git clone https://github.com/maysa502/Database-Exploration.git`
 2. Explore as pastas e inicie sua jornada de aprendizado em DataBase
 
 

@@ -1,7 +1,5 @@
 # Formação em ciencia de dados: SQL 
 ---
-# Python Learning Notes
-
 Bem-vindo ao meu repositório de aprendizado em Banco de Dados! Este projeto contém minhas anotações, atividades e exemplos, criados durante o meu estudo de DataBase
 
 ## Propósito do Projeto

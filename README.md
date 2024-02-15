@@ -6,8 +6,6 @@ Bem-vindo ao meu repositório de aprendizado em Banco de Dados! Este projeto con
 
 O objetivo deste projeto é fornecer recursos úteis para alunos iniciantes de banco de dados, facilitando a absorção do conhecimento. As anotações são baseadas em livros que estarão disponiveis no repositório [livros](https://github.com/Maysa502/Database-Exploration/tree/main/Livros).
 
-E também serão ministradas a partir do curso: [Formação em Ciencia de Dados - Comunidade DS](https://www.comunidadeds.com/formacao-profissional-ciencia-de-dados?gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lek6ybIYm2eBR3Dg5b1iDiUAiW0dFzG_0BbpxmcAHc3kdFtoggtr1BoCnQoQAvD_BwE).
-
 
 
 ---
